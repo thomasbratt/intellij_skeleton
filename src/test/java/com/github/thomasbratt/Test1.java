@@ -6,7 +6,7 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 // The purpose of this type is to
-public class Test1 {
+public final class Test1 {
 
     @Test
     public void shouldDoSomethingSpecific() throws Exception {
